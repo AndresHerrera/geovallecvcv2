@@ -12,7 +12,7 @@ email=fandresherrera@hotmail.com
 
 about=Este plugin para QGIS entrega la ondulación geoidal para puntos de entrada en diferentes sistemas de referencia en el Valle del Cauca, para su calculo hace uso del Geoide local (GEOVALLE 1.0) (Opensource) desarrollado por la coorporación autonoma regional (CVC). Más información sobre el modelo geoidal GEOVALLE 1.0 en http://www.cvc.gov.co/
 
-tracker=https://github.com/AndresHerrera/geovallecvcv2
+tracker=https://github.com/AndresHerrera/geovallecvcv2/issues
 repository=https://github.com/AndresHerrera/geovallecvcv2
 # End of mandatory metadata
 
